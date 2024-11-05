@@ -4,8 +4,5 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - ⚡ Fun fact: ...
-
-<!---
-romwo32/romwo32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Languages and Tools:
+arduino aws c cplusplus flask git javascript linux matlab nodejs opencv pandas python pytorch react scikit_learn seaborn tensorflow
